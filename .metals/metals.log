@@ -1,0 +1,6 @@
+2026.05.23 19:17:27 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\xavio\Documents\GitHub\compose-for-agents' for client Visual Studio Code 1.121.0.
+2026.05.23 19:17:27 INFO  Memory monitor started
+2026.05.23 19:17:29 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.23 19:22:09 INFO  no build target found for C:\Users\xavio\Documents\GitHub\compose-for-agents\spring-ai\src\main\java\org\springframework\ai\mcp\samples\brave\Application.java. Using fallback presentation compiler.
+May 23, 2026 7:34:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
